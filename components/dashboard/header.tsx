@@ -53,7 +53,7 @@ export function Header() {
           className="flex items-center gap-3 pl-4 border-l border-border/50"
         >
           <div className="text-right">
-            <p className="text-sm font-medium">Marcus Chen</p>
+            <p className="text-sm font-medium">Ligep Aşığı</p>
             <p className="text-xs text-muted-foreground">Operations Lead</p>
           </div>
           <div className="w-10 h-10 rounded-full bg-gradient-to-br from-primary/80 to-emerald-600 flex items-center justify-center">
